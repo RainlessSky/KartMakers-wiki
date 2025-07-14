@@ -10,3 +10,5 @@ The Bulldawg Engine is a small & lightweight, but weak engine.
 Weight: 15kg
 
 Power: 150cc
+
+<progress id="acceleration" max="5" value="3">3/5</progress> <label for="acceleration">Acceleration</label>

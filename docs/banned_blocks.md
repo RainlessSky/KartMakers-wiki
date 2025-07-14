@@ -4,7 +4,7 @@ prev: false
 next: false
 ---
 # Banned Blocks
-KartMakers bans some blocks for a variety of reasons, ranging from limiting the power of the karts, to preventing chaos.
+KartMakers bans some blocks for a variety of reasons, ranging from limiting kart capabilities, to preventing chaos.
 
 
 ## List of banned blocks
