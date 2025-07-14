@@ -9,7 +9,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
-    logo: { light: "/se-docs-dark.png", dark: "/se-docs-light.png", alt: "Sector's Edge Documentation" },
+    logo: { light: "/favicon.png", dark: "/favicon.png", alt: "KartMakers Wiki" },
     siteTitle: false,
     search: {
       provider: 'local'
@@ -21,12 +21,14 @@ export default defineConfig({
       {
         text: "KartMakers",
         items: [
+          { text: 'Banned blocks', link: '/banned_blocks.md'},
           { text: 'Engine types', link: '/engines.md', collapsed: true, items: [
             { text: 'Bulldawg Engine', link: '/engines/bulldawg.md' },
             { text: 'Dragon Engine', link: '/engines/dragon.md' },
             { text: 'Raw Engine', link: '/engines/raw.md' }
             ]
-          }
+          },
+          { text: 'Kart requirements', link: '/kart_requirements.md'}
         ]
       }
     ],
