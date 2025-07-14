@@ -5,7 +5,7 @@ next: false
 ---
 
 # Raw Engine
-The Raw Engine is a powerful but cumbersome engine to use. Starting slow off the line, the Raw Engine can quickly catch up thanks to a higher top speed.
+The Raw Engine is a powerful but cumbersome engine to use. Starting slow off the line, the Raw Engine can quickly catch up thanks to a higher top speed. Using the Raw Engine requires playing a game of momentum.
 
 ## Stats
 Weight: 35kg

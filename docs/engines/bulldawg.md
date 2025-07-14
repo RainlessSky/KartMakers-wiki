@@ -4,7 +4,7 @@ prev: false
 next: false
 ---
 # Bulldawg Engine
-The Bulldawg Engine is a small & lightweight, but weak engine.
+The Bulldawg Engine is a small & lightweight, but weak engine. Compact karts can use the Bulldawg Engine to save on space, while having similar overall performance as with a Dragon Engine.
 
 ## Stats
 Weight: 15kg

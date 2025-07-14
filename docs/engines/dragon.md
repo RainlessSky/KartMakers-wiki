@@ -4,7 +4,7 @@ prev: false
 next: false
 ---
 # Dragon Engine
-The Dragon Engine is moderately sized, heavy, and puts out a solid amount of power.
+The Dragon Engine is moderately sized, heavy, and puts out a solid amount of power. With balanced size and performance, this is a good all-round pick.
 
 ## Stats
 Weight: 25kg
