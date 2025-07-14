@@ -1,10 +1,10 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  head: [['link', { rel: 'icon', href: '/KartMakers-wiki/favicon.png' }]],
+  head: [['link', { rel: 'icon', href: '/kartmakers-wiki/favicon.png' }]],
   title: "KartMakers Wiki",
   description: "Wiki for KartMakers, a kart racing mod for Trailmakers.",
-  base: "/KartMakers-wiki/",
+  base: "/kartmakers-wiki/",
   ignoreDeadLinks: true,
   cleanUrls: true,
   lastUpdated: true,
@@ -15,7 +15,7 @@ export default defineConfig({
       provider: 'local'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/RainlessSky/KartMakers-wiki' }
+      { icon: 'github', link: 'https://github.com/RainlessSky/kartmakers-wiki' }
     ],
     sidebar: [
       {
@@ -33,7 +33,7 @@ export default defineConfig({
       }
     ],
     editLink: {
-      pattern: 'https://github.com/RainlessSky/KartMakers-wiki/edit/main/docs/:path',
+      pattern: 'https://github.com/RainlessSky/kartmakers-wiki/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
     footer: {
