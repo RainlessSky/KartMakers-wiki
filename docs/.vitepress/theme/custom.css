@@ -55,16 +55,18 @@
 
 .dark {
     --vp-c-gutter: #333333;
+}
+
+:root {
+  progress::-moz-progress-bar { background: #fdc242; }
+  progress::-webkit-progress-value { background: #fdc242; }
+
+  progress {
+    color: #162238;
+    font-size: 1em;
+    inline-size: 5em;
+    height: 1em;
+    border: 1px solid #162238;
+    background: #162238;
   }
-
-progress::-moz-progress-bar { background: #fdc242; }
-progress::-webkit-progress-value { background: #fdc242; }
-
-progress {
-  color: #162238;
-  font-size: 1em;
-  width: 5em;
-  height: 1em;
-  border: 1px solid #162238;
-  background: #162238;
 }
