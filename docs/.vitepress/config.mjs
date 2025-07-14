@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  head: [['link', { rel: 'icon', href: '/KartMakers-wiki/se_logo.svg' }]],
+  head: [['link', { rel: 'icon', href: '/KartMakers-wiki/public/favicon.png' }]],
   title: "KartMakers Wiki",
   description: "Wiki for KartMakers, a kart racing mod for Trailmakers.",
   base: "/KartMakers-wiki/",
