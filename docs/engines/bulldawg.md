@@ -11,4 +11,4 @@ Weight: 15kg
 
 Power: 150cc
 
-<progress id="acceleration" max="5" value="3">3/5</progress> <label for="acceleration">Acceleration</label>
+<meter id="acceleration" min="1" max="5" low="1" high="4" optimum="5" value="3"></meter> <label for="acceleration">Acceleration</label>

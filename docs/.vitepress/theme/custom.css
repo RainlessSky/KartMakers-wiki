@@ -58,10 +58,12 @@
 }
 
 :root {
-  progress::-moz-progress-bar { background: #fdc242; }
-  progress::-webkit-progress-value { background: #fdc242; }
+  meter::-webkit-meter-even-less-good-value { color: #fdc242 }
+  meter::-webkit-meter-suboptimum-value { color: #fdc242 }
+  meter::-webkit-meter-optimum-value { color: #fdc242 }
+  meter::-webkit-meter-bar { color: #fdc242 }
 
-  progress {
+  meter {
     color: #162238;
     font-size: 1em;
     inline-size: 5em;
