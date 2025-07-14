@@ -14,9 +14,6 @@ hero:
     alt: An outline of a KartMakers kart
   actions:
     - theme: brand
-      text: Go to documentation
-      link: /index.md
-    - theme: alt
       text: Engine types
       link: /engines.md
 ---

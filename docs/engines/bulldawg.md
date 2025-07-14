@@ -3,4 +3,5 @@ title: Bulldawg Engine
 prev: false
 next: false
 ---
-## Bulldawg Engine page
+## Bulldawg Engine
+The Bulldawg Engine is a small & lightweight, but weak engine.
