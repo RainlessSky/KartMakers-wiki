@@ -58,14 +58,18 @@
 }
 
 :root {
+  meter::-webkit-meter-bar {background: none;background-color:#162238 !important;}
+  meter::-webkit-meter-even-less-good-value {background: none;background:#fdc242 !important;}
+  meter::-webkit-meter-suboptimum-value {background: none;background:#fdc242 !important;}
+  meter::-webkit-meter-optimum-value {background: none;background:#fdc242 !important;}
+  meter::-moz-meter-bar {background: none;background:#fdc242 !important;}
+  meter::-moz-meter-sub-sub-optimum {background: none;background:#fdc242 !important;}
+  meter::-moz-meter-sub-optimum {background: none;background:#fdc242 !important;}
+  meter::-moz-meter-optimum {background: none;background:#fdc242 !important;}
   meter {
     font-size: 1em;
     inline-size: 3em;
     height: 1.15em;
     border: 4px solid #162238;
-    -webkit-meter-even-less-good-value: #fdc242;
-    -webkit-meter-suboptimum-value: #fdc242;
-    -webkit-meter-optimum-value: #fdc242;
-    -webkit-meter-bar: #fdc242
   }
 }
