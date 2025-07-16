@@ -28,6 +28,12 @@ export default defineConfig({
             { text: 'Raw Engine', link: '/engines/raw.md' }
             ]
           },
+          { text: 'Thrusters', link: '/thrusters.md', collapsed: true, items: [
+            { text: 'Thruster', link: '/engines/thruster.md' },
+            { text: 'Space Thruster', link: '/engines/space_thruster.md' },
+            { text: 'Dragon Jet', link: '/engines/dragon_jet.md' }
+            ]
+          },
           { text: 'Kart requirements', link: '/kart_requirements.md'}
         ]
       }
