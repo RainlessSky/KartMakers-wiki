@@ -29,9 +29,9 @@ export default defineConfig({
             ]
           },
           { text: 'Thrusters', link: '/thrusters.md', collapsed: true, items: [
-            { text: 'Thruster', link: '/engines/thruster.md' },
-            { text: 'Space Thruster', link: '/engines/space_thruster.md' },
-            { text: 'Dragon Jet', link: '/engines/dragon_jet.md' }
+            { text: 'Thruster', link: '/thrusters/thruster.md' },
+            { text: 'Space Thruster', link: '/thrusters/space_thruster.md' },
+            { text: 'Dragon Jet', link: '/thrusters/dragon_jet.md' }
             ]
           },
           { text: 'Kart requirements', link: '/kart_requirements.md'}
