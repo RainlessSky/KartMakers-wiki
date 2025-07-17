@@ -30,6 +30,7 @@ KartMakers bans some blocks for a variety of reasons, ranging from limiting kart
 * Outboard Boat Engine
 
 #### Thrusters
+* Rocket Thruster
 * Raw Jet
 * Large Jet
 * Gimbal Jet
