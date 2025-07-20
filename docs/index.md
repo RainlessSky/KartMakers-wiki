@@ -16,4 +16,10 @@ hero:
     - theme: brand
       text: Engine types
       link: /engines.md
+    - theme: brand
+      text: Thruster types
+      link: /thrusters.md
+    - theme: brand
+      text: Banned blocks
+      link: /banned_blocks.md
 ---
