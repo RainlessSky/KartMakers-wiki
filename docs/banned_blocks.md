@@ -11,6 +11,11 @@ KartMakers bans some blocks for a variety of reasons, ranging from limiting kart
 
 ### Movement
 
+#### Steering
+* Large Hinge
+* Gyro
+* Gyro Stabilizer
+
 #### Traction
 * Anchor Pin
 * Hover Block
@@ -20,7 +25,6 @@ KartMakers bans some blocks for a variety of reasons, ranging from limiting kart
 * Power Coupling
 
 #### Air Propellers
-* Propeller
 * Large Propeller
 * Tail Propeller
 * Propeller Engine
